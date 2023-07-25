@@ -1,4 +1,4 @@
-# code-glimpse
+# 🥽 code-glimpse
 codeGlimpse is a comprehensive platform that offers information and insights into the world of coding. From featured users and projects to coding challenges and courses, it's a one-stop destination for coders seeking inspiration and growth in the coding community. My goal with codeGlimpse is to create an environment for coders to explore the world of coding. This is why I've implemented ways to explore other people's work (featured coders/repos), give coders of all levels ideas on what to make, the latest news regarding coding and CS, and much more.
 
 
