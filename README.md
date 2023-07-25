@@ -5,8 +5,9 @@ codeGlimpse is a comprehensive platform that offers information and insights int
 ## Development
 This website was created entirely with HTML, CSS, and JS, although interactivity was not a big factor in making this website, thus not much JS code was written. Creating the site took roughly 2-3 days of work. The intended purpose of this website was to share code snippets but my lack of skills with backend development deterred me from going further with the idea, although that is in my plans for the future.
 
+
 ## Takeaways
-For starters, I need to work on my backend game. With only a couple weeks of web development experience, learning frontend work is still important although it seems like a reasonable time to start learning JS frameworks and other technologies commonly used in fullstack development. I also need to learn how to create websites that are compatible with other devices such as a phone. On the other hand, my visual design skills improved and I improved at organizing and structuring my HTML.
+For starters, I need to work on my backend game. With only a couple weeks of web development experience, learning frontend work is still important although it seems like a reasonable time to start learning JS frameworks and other technologies commonly used in fullstack development. I also need to learn how to create websites that are compatible with other devices such as a phone. On the other hand, my visual design skills improved and I improved at organizing and structuring my HTML. Also got better at centering elements inside of divs.
 
 ## Preview
 A preview of some of the website elements. These screenshots don't represent the website in its entirety.
