@@ -9,6 +9,12 @@ This website was created entirely with HTML, CSS, and JS, although interactivity
 ## Takeaways
 For starters, I need to work on my backend game. With only a couple weeks of web development experience, learning frontend work is still important although it seems like a reasonable time to start learning JS frameworks and other technologies commonly used in fullstack development. I also need to learn how to create websites that are compatible with other devices such as a phone. On the other hand, my visual design skills improved and I improved at organizing and structuring my HTML. Also got better at centering elements inside of divs.
 
+
+## Test It Out
+I'm hosting this website via Replit, give it a peek.
+[https://codeglimpse.jusmanov.repl.co/](url)
+
+
 ## Preview
 A preview of some of the website elements. These screenshots don't represent the website in its entirety.
 
